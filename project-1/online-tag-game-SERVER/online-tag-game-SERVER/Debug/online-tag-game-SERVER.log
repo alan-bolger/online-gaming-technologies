@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Users\alanj\OneDrive\Documents\Visual Studio Projects\online-tag-game-SERVER\online-tag-game-SERVER\src\Server.cpp(314,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  online-tag-game-SERVER.vcxproj -> C:\Users\alanj\OneDrive\Documents\Visual Studio Projects\online-tag-game-SERVER\Debug\online-tag-game-SERVER.exe
